@@ -1,0 +1,23 @@
+#nombre {
+    font-weight: bold;
+}
+
+#titulo {
+    font-weight: bold;
+}
+
+#table_datos_complementarios td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#table_datofamiliars td:nth-child(8) {
+    white-space: nowrap;
+}
+
+#table_pistolas td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#table_bayonetas td:nth-child(7) {
+    white-space: nowrap;
+}

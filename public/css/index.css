@@ -1,0 +1,17 @@
+
+
+#users td:nth-child(5) {
+    white-space: nowrap;
+}
+
+#unidads td:nth-child(4) {
+    white-space: nowrap;
+}
+
+#roles td:nth-child(3) {
+    white-space: nowrap;
+}
+
+#celda_edit{
+    width: 10px;
+}

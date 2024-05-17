@@ -1,0 +1,33 @@
+#nombre {
+    font-weight: bold;
+}
+
+#titulo {
+    font-weight: bold;
+    text-align: center;
+}
+
+#tabla_parte {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#celda {
+    writing-mode:sideways-rl;
+    vertical-align: middle;
+}
+
+#celda_fin {
+    writing-mode:sideways-rl;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.tr_negrita {
+    font-weight: bold;
+}
+
+#uu_dd {
+    text-align: center;
+    font-weight: bold;
+}
